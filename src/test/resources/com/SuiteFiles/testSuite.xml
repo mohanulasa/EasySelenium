@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="seleniumEasyTestSuite">
+	<test name="sanitySuite">
+		<classes>
+			<class name="com.testBox.TextBoxesPage" />
+			<class name="com.testBox.RadioBtnPage"/>
+		</classes>
+	</test>
+</suite>

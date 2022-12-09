@@ -6,6 +6,8 @@ public class WindowHandlePage {
 		System.out.println("Testing..!");
 		
 		System.out.println("Testing in the Version ..!");
+		
+		System.out.println("Verifying through chandra.cnr465@gmail.com Account ..!");
 
 	}
 
